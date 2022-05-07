@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raviravs04
+- 👀 I’m interested in ["DevOps", "CICD", "cloud", "IaC"]
+- 🌱 I’m currently learning ["jenkins", "linux", "ansible", "terraform", "grafana", "ELK", "AWS", "shell scripting"]
+- 📫 How to reach me:
+  - [Linkdin](https://www.linkedin.com/in/ravinder-singh-02803123a/)
